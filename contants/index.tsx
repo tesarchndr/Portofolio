@@ -55,7 +55,7 @@ export const PROJECTS = [
     },
     {
         Name: 'CEDEA Guman Resource App',
-        Url: '/CEDEA/CEDEA1.JPEG',
+        Url: '/CEDEA/CEDEA5.JPEG',
         UrlApp: 'https://github.com/tesarchndr/HR-Cedea',
         Desc: 'A specialized HR management platform built for Cedea Seafood to manage their employees, attendance, and workflow automation. Role: Fullstack Developer – worked on both frontend and backend. Built dynamic HR dashboards, responsive UI components, and improved user interactions. Designed UIs with Figma for a smooth handoff. On the backend, developed APIs, set up data models, and integrated workflow automation with Nintex to streamline processes. ',
         UrlImage: [
