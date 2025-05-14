@@ -51,22 +51,37 @@ export const PROJECTS = [
             '/BSI/BSI4.png', 
             '/BSI/BSI5.png', 
         ],
-        Tech: ['React Js', '.Net Framework', 'Nintex Workflow Automation']
+        Tech: ['React Js', '.Net Framework', 'Nintex Workflow Cloud']
     },
     {
         Name: 'CEDEA Human Resource App',
-        Url: '/CEDEA/CEDEA5.JPEG',
+        Url: '/CEDEA/CEDEA10.png',
         UrlApp: 'https://github.com/tesarchndr/HR-Cedea',
         Desc: 'A specialized HR management platform built for Cedea Seafood to manage their employees, attendance, and workflow automation. Role: Fullstack Developer – worked on both frontend and backend. Built dynamic HR dashboards, responsive UI components, and improved user interactions. Designed UIs with Figma for a smooth handoff. On the backend, developed APIs, set up data models, and integrated workflow automation with Nintex to streamline processes. ',
         UrlImage: [
-            '/CEDEA/CEDEA1.JPEG', 
-            '/CEDEA/CEDEA5.JPEG', 
-            '/CEDEA/CEDEA2.JPEG', 
-            '/CEDEA/CEDEA3.JPEG', 
-            '/CEDEA/CEDEA4.JPEG', 
+            '/CEDEA/CEDEA7.png', 
+            '/CEDEA/CEDEA8.png', 
+            '/CEDEA/CEDEA9.png', 
+            '/CEDEA/CEDEA10.png', 
+            // '/CEDEA/CEDEA4.png', 
             '/CEDEA/CEDEA6.png', 
         ],
         Tech: ['React Js', 'Node Js', 'Tailwind CSS']
+    },
+    {
+        Name: 'Daikin App',
+        Url: '/DAIKIN/DAIKIN1.png',
+        UrlApp: '/',
+        Desc: 'A comprehensive enterprise tool combining employee self-service and financial payment scheduling, tailored for internal corporate processes. Role: Frontend & Workflow Integration Developer – developed features for HR, finance, and scheduling, integrated Nintex workflows. ',
+        UrlImage: [
+            '/DAIKIN/DAIKIN1.png', 
+            '/DAIKIN/DAIKIN2.png', 
+            '/DAIKIN/DAIKIN3.png', 
+            '/DAIKIN/DAIKIN4.png', 
+            // '/DAIKIN/DAIKIN4.png', 
+            '/DAIKIN/DAIKIN5.png', 
+        ],
+        Tech: ['Angular Js', '.Net Framework', 'Nintex Automation Cloud']
     }
 ]
 
