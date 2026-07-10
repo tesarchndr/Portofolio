@@ -9,6 +9,34 @@ export const NAV_LINKS = [
 
 export const PROJECTS = [
     {
+        Name: 'Electronic City E-Commerce & Gamification Platform (eci.id)',
+        Url: '/ECI/ECI2.png',
+        UrlApp: 'https://eci.id/',
+        Desc: 'An e-commerce and campaign platform for Electronic City, supporting online shopping, checkout, payment, voucher redemption, and promotional gamification experiences.',
+        UrlImage: [
+            '/ECI/ECI1.png', 
+            '/ECI/ECI2.png', 
+            '/ECI/ECI3.png', 
+            '/ECI/ECI4.jpeg', 
+            '/ECI/ECI5.jpeg', 
+            '/ECI/ECI6.jpeg', 
+            '/ECI/ECI7.jpeg', 
+            '/ECI/ECI8.jpeg', 
+            '/ECI/ECI9.jpeg', 
+            '/ECI/ECI10.jpeg',
+            '/ECI/ECI11.jpeg',
+            '/ECI/ECI12.jpeg',
+            '/ECI/ECI13.jpeg',
+            '/ECI/ECI14.jpeg',
+            '/ECI/ECI15.jpeg',
+            '/ECI/ECI16.jpeg',
+            '/ECI/ECI17.jpeg',
+            '/ECI/ECI18.jpeg',
+            '/ECI/ECI19.jpeg',
+        ],
+        Tech: ['Next Js', 'Tailwind CSS']
+    },
+    {
         Name: 'TUGU Insurance App',
         Url: '/TUGU/TUGU1.png',
         UrlApp: 'https://tces-dev.prosnap.id/',
