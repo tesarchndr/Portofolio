@@ -80,8 +80,8 @@ const Hero = () => {
           </span>
         </h2>
         <p className='mt-4 max-w-xs leading-normal'>I build accessible, pixel-perfect digital experiences for the web.</p>
-        <p><a href="/Resume_Tesar Chandra Esnawan_Full_Stack_Developer.pdf"
-           download={'/Resume_Tesar Chandra Esnawan_Full_Stack_Developer.pdf'}
+        <p><a href="/Resume_Tesar Chandra Esnawan_Front_End_Developer.pdf"
+           download={'/Resume_Tesar Chandra Esnawan_Front_End_Developer.pdf'}
           className='mt-6 text-slate-300 hover:text-slate-200 flex items-center' target='_blank'><FaFilePdf size={22} className='mr-2'/>Download CV</a>
         </p>
         <nav className='nav hidden lg:block' aria-label="In-page jump links">
